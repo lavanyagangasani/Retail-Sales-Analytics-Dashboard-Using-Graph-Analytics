@@ -1,4 +1,4 @@
-# Retail_Sales_Analytics_Dashboard
+
 # 📊 Retail Sales Analytics Dashboard Using Graph Analytics
 
 ## 📌 Project Overview
